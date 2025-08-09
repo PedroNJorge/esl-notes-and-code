@@ -1,6 +1,6 @@
 # Statistical Learning in Python  
 
-📚 **Course Notes + Code** | [Course Link](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) | [Textbook](https://www.statlearning.com/)  
+📚 **Course Notes + Code** | [Course Link](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) | [ISLP Textbook](https://www.statlearning.com/) | [ESL Textbook](https://hastie.su.domains/ElemStatLearn/)
 
 A structured repo for my journey through *Statistical Learning in Python*. Includes:  
 - Chapter-wise **notes** (Markdown/Jupyter)  
