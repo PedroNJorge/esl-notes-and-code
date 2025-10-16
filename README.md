@@ -7,7 +7,7 @@ A structured repo for my journey through *Statistical Learning in Python*. Inclu
 - **Python implementations** of algorithms (Jupyter Notebook)
 - Exercise solutions
 
-``bash
+```bash
 esl-notes-and-code/
 │
 ├── notes/
@@ -24,7 +24,7 @@ esl-notes-and-code/
 │   └── ...
 │
 └── README.md                    # Project description
-``
+```
 
 ## 📌 Progress  
 ✅ **Chapter 1**: Introduction to Statistical Learning  
