@@ -45,5 +45,5 @@ esl-notes-and-code/
 ## 🛠 How to Use  
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/PedroNJorge/statistical-learning-python
+   git clone https://github.com/PedroNJorge/esl-notes-and-code
    ```
