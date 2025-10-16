@@ -27,11 +27,20 @@ esl-notes-and-code/
 ```
 
 ## 📌 Progress  
-✅ **Chapter 1**: Introduction to Statistical Learning  
-- [x] 1.1 Notes  
-- [x] 1.1 Code Demo  
-⏳ **Chapter 2**: Linear Regression  
-- [ ] 2.1 Notes (In Progress)  
+[✓] **Chapter 1**: Introduction to Statistical Learning  
+- [x] Videos
+
+[~] **Chapter 2**: Linear Regression
+- [X] Videos
+- [X] 2.1 Notes
+- [X] 2.2 Notes
+- [ ] 2.3 Notes
+- [ ] 2.4 Notes
+- [ ] 2.5 Notes
+- [ ] 2.6 Notes
+- [ ] 2.7 Notes
+- [ ] 2.8 Notes
+- [ ] 2.9 Notes
 
 ## 🛠 How to Use  
 1. Clone the repo:  
